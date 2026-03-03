@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "title": "Правила лізингу",
+      "category": "rules",
+      "path": "/pravyla-lizyngu.pdf"
+    },
+    {
+      "title": "Правила лізингу від 29.11.2024p.",
+      "category": "rules",
+      "path": "/pravyla-lizyngu-vid-29-11-2024.pdf"
+    },
+    {
+      "title": "Правила позики",
+      "category": "rules",
+      "path": "/pravyla-pozyky.pdf"
+    },
+    {
+      "title": "Правила позики від 29.11.2024p.",
+      "category": "rules",
+      "path": "/pravyla-pozyky-vid-29-11-2024.pdf"
+    },
+    {
+      "title": "Правила факторингу",
+      "category": "rules",
+      "path": "/pravyla-faktoryngu.pdf"
+    },
+    {
+      "title": "Правила факторингу від 29.11.2024р.",
+      "category": "rules",
+      "path": "/pravyla-faktoryngu-vid-29-11-2024.pdf"
+    },
+    {
+      "title": "Договір лізингу",
+      "category": "agreement",
+      "path": "/dohovir-lizyngu.pdf"
+    },
+    {
+      "title": "Договір лізингу від 29.11.2024p.",
+      "category": "agreement",
+      "path": "/dohovir-lizyngu-vid-29-11-2024.pdf"
+    },
+    {
+      "title": "Договір позики",
+      "category": "agreement",
+      "path": "/dohovir-pozyky.pdf"
+    },
+    {
+      "title": "Договір позики від 29.11.2024p.",
+      "category": "agreement",
+      "path": "/dohovir-pozyky-vid-29-11-2024.pdf"
+    },
+    {
+      "title": "Договір факторингу",
+      "category": "agreement",
+      "path": "/dohovir-faktoryngu.pdf"
+    },
+    {
+      "title": "Договір факторингу від 29.11.2024р.",
+      "category": "agreement",
+      "path": "/dohovir-faktoryngu-vid-29-11-2024.pdf"
+    }
+  ]
+}
