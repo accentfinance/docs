@@ -1,64 +1,24 @@
 {
   "list": [
     {
-      "title": "Правила лізингу",
-      "category": "rules",
-      "path": "/pravyla-lizyngu.pdf"
+      "title": "Структура власності на 10.02.2026 року",
+      "category": "service",
+      "path": "/Структура_власності_10_02_2026.pdf"
     },
     {
-      "title": "Правила лізингу від 29.11.2024p.",
-      "category": "rules",
-      "path": "/pravyla-lizyngu-vid-29-11-2024.pdf"
+      "title": "«Інформація про істотні характеристики послуги з надання мікрокредиту по продукту «ПЕРШИЙ КРЕДИТ»»",
+      "category": "service",
+      "path": "/Інформація_перший_кредит.pdf"
     },
     {
-      "title": "Правила позики",
-      "category": "rules",
-      "path": "/pravyla-pozyky.pdf"
+      "title": "«Інформація про істотні характеристики послуги з надання мікрокредиту по продукту «ПОВТОРНИЙ КРЕДИТ»»",
+      "category": "service",
+      "path": "/Інформація_мікрокредит.pdf"
     },
     {
-      "title": "Правила позики від 29.11.2024p.",
-      "category": "rules",
-      "path": "/pravyla-pozyky-vid-29-11-2024.pdf"
-    },
-    {
-      "title": "Правила факторингу",
-      "category": "rules",
-      "path": "/pravyla-faktoryngu.pdf"
-    },
-    {
-      "title": "Правила факторингу від 29.11.2024р.",
-      "category": "rules",
-      "path": "/pravyla-faktoryngu-vid-29-11-2024.pdf"
-    },
-    {
-      "title": "Договір лізингу",
-      "category": "agreement",
-      "path": "/dohovir-lizyngu.pdf"
-    },
-    {
-      "title": "Договір лізингу від 29.11.2024p.",
-      "category": "agreement",
-      "path": "/dohovir-lizyngu-vid-29-11-2024.pdf"
-    },
-    {
-      "title": "Договір позики",
-      "category": "agreement",
-      "path": "/dohovir-pozyky.pdf"
-    },
-    {
-      "title": "Договір позики від 29.11.2024p.",
-      "category": "agreement",
-      "path": "/dohovir-pozyky-vid-29-11-2024.pdf"
-    },
-    {
-      "title": "Договір факторингу",
-      "category": "agreement",
-      "path": "/dohovir-faktoryngu.pdf"
-    },
-    {
-      "title": "Договір факторингу від 29.11.2024р.",
-      "category": "agreement",
-      "path": "/dohovir-faktoryngu-vid-29-11-2024.pdf"
+      "title": "«Інформація про істотні характеристики послуги з надання споживчого кредиту (без застави) по продукту «ПОВТОРНИЙ КРЕДИТ»»",
+      "category": "service",
+      "path": "/Інформація_повторний_кредит.pdf"
     }
   ]
 }
